@@ -1,4 +1,4 @@
-                                    ### Hello 👋 I'm Israel. Nice to meet you.
+### Hello 👋 I'm Israel. Nice to meet you.
 
 
 I'm a passionate and dedicated front-end developer with a deep love for coding and problem-solving. I'm always eager to learn new technologies, explore innovative ideas, and collaborate with others to create meaningful projects. I'm proficient in web development, on the front-end(HTML, CSS, JAVASCRIPT, REACT & REDUX).
