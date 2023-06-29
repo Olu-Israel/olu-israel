@@ -11,7 +11,9 @@ I'm Olu Israel, a dedicated backend developer with 2 years of experience in desi
 [logo]: https://github-profile-trophy.vercel.app/?username=Olu-Israel&theme=dark_lover
 
 ## Get in Touch ✍
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)(https://twitter.com/tokiisrael)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white )
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 
 
