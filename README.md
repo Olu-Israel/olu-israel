@@ -12,7 +12,7 @@ I'm Olu Israel, a dedicated backend developer with 2 years of experience in desi
 
 ## Get in Touch ✍
 
-![image](https://twitter.com/tokiisrael)
+https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
 
 
 
