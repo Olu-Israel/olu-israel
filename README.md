@@ -10,6 +10,8 @@ I'm Olu Israel, a dedicated backend developer with 2 years of experience in desi
 ![alt text][logo]
 
 [logo]: https://github-profile-trophy.vercel.app/?username=Olu-Israel&theme=dark_lover
+
+## GitHub Profile Stats 📊 
 ![](https://github-readme-stats.vercel.app/api?username=Olu-Israel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Olu-Israel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Olu-Israel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -43,7 +45,7 @@ Thank you for visiting my GitHub repository. Explore my projects, and contributi
 
 
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 
 
 ## 🐦 Latest Tweet
