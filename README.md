@@ -1,4 +1,5 @@
 ## Hey there! 👋
+[![](https://visitcount.itsvg.in/api?id=Olu-Israel&icon=0&color=0)](https://visitcount.itsvg.in)
 Welcome to my GitHub repository! Here, you'll find a collection of my backend development projects and contributions. As a passionate backend developer, I enjoy building robust and scalable solutions that power the core functionality of applications.
 
 ## About Me 👨‍💻
@@ -53,7 +54,7 @@ Thank you for visiting my GitHub repository. Explore my projects, and contributi
 ![](https://github-contributor-stats.vercel.app/api?username=Olu-Israel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Olu-Israel&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
