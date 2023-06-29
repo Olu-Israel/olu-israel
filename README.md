@@ -13,3 +13,6 @@ I'm Olu Israel, a dedicated backend developer with 2 years of experience in desi
 ### Get in Touch ✍
 I'm always excited to collaborate on interesting projects and discuss opportunities. 
 
+[logo]: https://twitter.com/tokiisrael
+
+
