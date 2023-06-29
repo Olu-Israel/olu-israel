@@ -12,6 +12,8 @@ I'm Olu Israel, a dedicated backend developer with 2 years of experience in desi
 
 ## Get in Touch ✍
 I'm always excited to collaborate on interesting projects and discuss opportunities. 
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Twitter](https://twitter.com/tokiisrael?style=for-the-badge&logo=medium&logoColor=white)
 
 
 
