@@ -25,6 +25,7 @@ I'm Olu Israel, a dedicated PHP backend developer with 2 years of experience in 
 ## Get in Touch ✍
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tokiisrael) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@Ixraels)
 
 
 
@@ -33,17 +34,6 @@ I'm Olu Israel, a dedicated PHP backend developer with 2 years of experience in 
 
 
 Thank you for visiting my GitHub repository. Explore my projects, and contributions, and feel free to star repositories that catch your interest. I look forward to connecting with you! 💪
-
-
-
-
-
-
-
-
-
-
-
 
 
 
