@@ -6,5 +6,7 @@ I'm Olu Israel, a dedicated backend developer with 2 years of experience in desi
 
 ### GitHub Profile Trophy 🏆
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true
+
 ### Get in Touch
 
