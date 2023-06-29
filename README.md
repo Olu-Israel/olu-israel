@@ -10,9 +10,14 @@ I'm Olu Israel, a dedicated backend developer with 2 years of experience in desi
 
 [logo]: https://github-profile-trophy.vercel.app/?username=Olu-Israel&theme=dark_lover
 
-### Get in Touch ✍
+## Get in Touch ✍
 I'm always excited to collaborate on interesting projects and discuss opportunities. 
 
-![alt text](![alt text](https://twitter.com/tokiisrael "Twitter")
+
+
+
+Let's connect and work together to build amazing backend solutions!
+
+Thank you for visiting my GitHub repository. Explore my projects, and contributions, and feel free to star repositories that catch your interest. I look forward to connecting with you! 💪
 
 
